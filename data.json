@@ -1,0 +1,22 @@
+// data.json
+{
+  "version": "1.0.0",
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Ana López",
+      "email": "ana@example.com",
+      "rol": "admin"
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Gómez",
+      "email": "carlos@empresa.com",
+      "rol": "usuario"
+    }
+  ],
+  "productos": [
+    {"id": "p1", "nombre": "Laptop Pro", "precio": 1299},
+    {"id": "p2", "nombre": "Mouse inalámbrico", "precio": 29}
+  ]
+}
